@@ -21,4 +21,6 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="express" />
 </p>
 
-![My GitHub Game](game.gif)
+<p align="center">
+  <img src="./game.gif" alt="Snake Game" width="100%" />
+</p>
